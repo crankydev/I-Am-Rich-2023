@@ -1,7 +1,7 @@
 # I-Am-Rich-2023
 First app from my (re)Boot Camp (2023 reboot of the Udemy iOS App Development course). 
 
-On this reboot of my iOS Dev journey, I'm going to be using Xcode to both show my work as well as to summarize my learning through each unit/project. 
+On this reboot of my iOS Dev journey, I'm going to be using GitHub to both show my work as well as to summarize my learning through each unit/project. 
 
 This was the first app, which just introduced us to Xcode. (We didn't even use .swift files at all, just the main.storyboard file.)
 
