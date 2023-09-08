@@ -17,7 +17,7 @@ Things we learned:
 Additional resources used: 
 * Canva.com: created the app icon (love those layered gradients! :) in the original 1024x1024px size [https://www.canva.com]
 * App Icon Generator: created different size ratios of image files from the original icon image file [https://www.appicon.co/#image-sets]
-* ColorHunt: searched curated color palettes for hex codes for a desired color
+* ColorHunt: searched curated color palettes for hex codes for a desired color [https://colorhunt.co]
 * Various other original London App Brewery course resources, such as troubleshooting sideloading flowchart, Xcode map, etc.
 
 
