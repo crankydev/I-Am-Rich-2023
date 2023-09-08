@@ -9,7 +9,7 @@ Things we learned:
 * Creating a new Xcode project, team, and bundle identifier
 * Xcode basics (layout, pertinent tabs, etc.)
 * Adding and editing Storyboard elements using editor tabs/inspectors (background color, label, and image view)
-* Customized design elements (colors, fonts, etc.) using the storyboard editors (specific 
+* Customized design elements (colors, fonts, etc.) using the storyboard editors
 * Running apps on both the Xcode simulator and sideloading (including wirelessly) to an iOS device
 * Adding and managing .xcassets files
 * Creating and importing app icons (in various sizes for various size ratios... obsolete in 2023?)
